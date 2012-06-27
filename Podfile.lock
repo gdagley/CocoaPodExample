@@ -1,5 +1,7 @@
 PODS:
+  - ConciseKit (0.1.2)
   - JSONKit (1.5pre)
 
 DEPENDENCIES:
+  - ConciseKit (~> 0.1.2)
   - JSONKit (~> 1.4)
